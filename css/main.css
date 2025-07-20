@@ -131,7 +131,21 @@ body {
 }
 
 .project {
+  position: relative;
   text-align: center;
+}
+
+.project-video {
+  position: absolute;
+  z-index: 3;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+  object-position: center;
+  border-radius: 30px;
 }
 
 .project-img {
