@@ -86,6 +86,10 @@
     margin-bottom: 20px;
   }
 
+  .project-video {
+    border-radius: 14px;
+  }
+
   .project-title {
     font-style: 16px;
   }
