@@ -137,11 +137,10 @@ body {
 
 .project-video {
   position: absolute;
-  margin: 0 auto;
   z-index: 3;
   top: 0;
   left: 0;
-  width: 110%;
+  width: 130%;
   height: 80%;
   opacity: 0.9;
   object-fit: cover;
