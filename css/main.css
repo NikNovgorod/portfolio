@@ -140,7 +140,7 @@ body {
   z-index: 3;
   top: 0;
   left: 0;
-  width: 100%;
+  width: auto;
   height: 100%;
   opacity: 0.9;
   object-position: center;
