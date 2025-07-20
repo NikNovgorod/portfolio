@@ -142,7 +142,6 @@ body {
   left: 0;
   width: 95%;
   height: 65%;
-  object-fit: cover;
   opacity: 0.9;
   object-position: center;
   border-radius: 30px;
