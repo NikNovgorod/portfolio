@@ -137,6 +137,7 @@ body {
 
 .project-video {
   position: absolute;
+  margin: 0 auto;
   z-index: 3;
   top: 0;
   left: 0;
