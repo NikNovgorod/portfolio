@@ -140,8 +140,8 @@ body {
   z-index: 3;
   left: 0;
   top: 0;
-  width: 80%;
-  height: 80%;
+  width: 95%;
+  height: 95%;
   object-fit: cover;
   opacity: 0.9;
   object-position: center;
@@ -166,8 +166,6 @@ body {
 }
 
 .project-title a {
-  position: absolute;
-  z-index: 4;
   color: white;
   font-weight: bold;
   text-decoration: underline;
