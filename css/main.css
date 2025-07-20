@@ -160,13 +160,13 @@ body {
 }
 
 .project-title {
-  color: white;
+  color: blue;
   font-weight: bold;
   font-style: 32px;
 }
 
 .project-title a {
-  color: white;
+  color: blue;
   font-weight: bold;
   text-decoration: underline;
 }
