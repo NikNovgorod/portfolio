@@ -140,8 +140,8 @@ body {
   z-index: 3;
   top: 0;
   left: 0;
-  width: auto;
-  height: 100%;
+  width: 130%;
+  height: 130%;
   opacity: 0.9;
   object-fit: cover;
   object-position: center;
