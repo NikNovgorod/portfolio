@@ -58,7 +58,7 @@ body {
 .header-img {
   width: 357px;
   height: 450px;
-  border-radius: 30px;
+  border-radius: 30px 30px 60px 30px;
 }
 
 .header-title {
