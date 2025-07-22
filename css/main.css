@@ -56,9 +56,10 @@ body {
 }
 
 .header-img {
-  width: 377px;
-  height: 470px;
-  border-radius: 20px;
+  width: 357px;
+  height: 450px;
+  border-radius: 30px;
+  border-bottom-right-radius: 100px;
 }
 
 .header-title {
