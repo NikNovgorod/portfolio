@@ -160,13 +160,13 @@ body {
 }
 
 .project-title {
-  color: #ffd700;
+  color: blue;
   font-weight: bold;
   font-style: 32px;
 }
 
 .project-title a {
-  color: #ffd700;
+  color: blue;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -601,5 +601,6 @@ button:active::after {
 .button-wrap:has(button:active) span {
   text-shadow: 0.025em 0.25em 0.05em rgba(0, 0, 0, 0.12);
 }
+
 
 
