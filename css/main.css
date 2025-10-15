@@ -170,6 +170,7 @@ body {
   color: black;
   font-weight: bold;
   text-decoration: none;
+  display: inline-block;
 }
 
 /*--contacts--*/
@@ -602,6 +603,7 @@ button:active::after {
 .button-wrap:has(button:active) span {
   text-shadow: 0.025em 0.25em 0.05em rgba(0, 0, 0, 0.12);
 }
+
 
 
 
