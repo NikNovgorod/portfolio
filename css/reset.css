@@ -17,7 +17,7 @@ a,
 a:link,
 a:visited {
   text-decoration: none;
-  display: inline-block;
+  display: inline-flex;
 }
 
 a:hover {
@@ -113,4 +113,5 @@ legend {
 input[type="file"] {
   max-width: 100%;
 }
+
 
